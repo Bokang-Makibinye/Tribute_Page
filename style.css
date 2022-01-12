@@ -1,0 +1,51 @@
+html {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    color: burlywood;
+}
+
+img {
+    align-content: center;
+    width: 100%;
+    height:auto;
+}
+
+#img-div {
+    background-color: burlywood;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+}
+
+#img-caption {
+    color:black;
+    padding-bottom: 20px;
+    font-size: small;
+    text-decoration: underline;
+}
+
+#tribute-link {
+    color: white;
+}
+
+#tribute-info {
+    background-color: darkgrey;
+    color: black;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#tribute-info p {
+    margin: 10px;
+}
+
+hr {
+    width: 80%;
+    color:black;
+    align-content: left;
+}
